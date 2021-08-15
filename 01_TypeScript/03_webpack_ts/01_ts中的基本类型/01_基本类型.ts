@@ -1,4 +1,4 @@
-(function () {
+(() => {
   //字符串和数字之间能够一起拼接
   let str5: string = "我有这么多的钱";
   let num: number = 1000;
